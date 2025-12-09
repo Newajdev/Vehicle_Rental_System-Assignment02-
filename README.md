@@ -24,11 +24,6 @@ This is a complete vehicle Rental Management system with fully functional and se
 
 ## If you want to run my code on your system, then follow my instructions
 
-### Prerequisites
-
-- Node.js 
-- PostgreSQL database
-
 ### Installation
 
 1. Clone the repository:
